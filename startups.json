@@ -12,6 +12,18 @@
       }
     },
     {
+      "name": "Coursier Privé",
+      "website": "coursierprive.com",
+      "status": "active",
+      "season": "7",
+      "pitch": "B2B Delivery solution, 50% cheaper than traditional services, fully transparent, with stunning customer experience",
+      "connect": {
+        "mail": "contact@coursierprive.com",
+        "facebook": "https://www.facebook.com/coursierprivecom",
+        "twitter": "https://twitter.com/coursier_prive"
+      }
+    },
+    {
       "name": "Le Zeste",
       "website": "lezeste.paris",
       "status": "active",
